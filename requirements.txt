@@ -1,0 +1,152 @@
+absl-py==1.3.0
+altair==4.2.0
+asn1crypto @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_df35a2a4-e7a8-49c6-ace6-edff7129cef9u6px56sz/croots/recipe/asn1crypto_1652362655696/work
+astunparse==1.6.3
+async-generator==1.10
+attrs @ file:///home/conda/feedstock_root/build_artifacts/attrs_1659291887007/work
+backports.zoneinfo==0.2.1
+beautifulsoup4==4.11.1
+blinker==1.5
+blis==0.7.9
+Bottleneck @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_29949159-f86f-474b-bc1f-aaa1e0e222b4ofusifik/croots/recipe/bottleneck_1657175564045/work
+brotlipy==0.7.0
+cachetools==5.2.0
+catalogue==2.0.8
+certifi==2022.9.24
+cffi @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_62rp5d8fd4/croots/recipe/cffi_1659598655556/work
+charset-normalizer==2.1.1
+click==8.1.3
+cloudpickle @ file:///tmp/build/80754af9/cloudpickle_1632508026186/work
+commonmark==0.9.1
+confection==0.0.3
+contourpy==1.0.6
+cryptography @ file:///opt/concourse/worker/volumes/live/732d2752-e4cb-4715-726b-56d890f169fb/volume/cryptography_1639414586414/work
+cycler==0.11.0
+cymem==2.0.7
+decorator==5.1.1
+entrypoints==0.4
+exceptiongroup @ file:///home/conda/feedstock_root/build_artifacts/exceptiongroup_1668523704481/work
+filelock @ file:///opt/conda/conda-bld/filelock_1647002191454/work
+flatbuffers==22.10.26
+fonttools==4.38.0
+funcy==1.17
+future==0.18.2
+gast==0.4.0
+gensim==4.2.0
+gitdb==4.0.9
+GitPython==3.1.29
+google-auth==2.14.1
+google-auth-oauthlib==0.4.6
+google-pasta==0.2.0
+grpcio==1.50.0
+h11 @ file:///home/conda/feedstock_root/build_artifacts/h11_1664132893548/work
+h5py==3.7.0
+huggingface-hub==0.11.0
+idna @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_00jf0h4zbt/croot/idna_1666125573348/work
+importlib-metadata==5.0.0
+importlib-resources==5.10.0
+Jinja2==3.1.2
+joblib==1.2.0
+jsonschema==4.17.0
+keras==2.11.0
+kiwisolver==1.4.4
+langcodes==3.3.0
+libclang==14.0.6
+Markdown==3.4.1
+MarkupSafe==2.1.1
+matplotlib==3.6.2
+mkl-fft==1.3.1
+mkl-random @ file:///opt/concourse/worker/volumes/live/f196a661-8e33-4aac-63bc-efb2ff50e035/volume/mkl_random_1626186080069/work
+mkl-service==2.4.0
+murmurhash==1.0.9
+nltk==3.7
+NRCLex==3.0.0
+numexpr @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_f4cadb13-5662-4009-98e5-0105539d6a65fifix2d5/croots/recipe/numexpr_1656940304949/work
+numpy @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_cd2y6umv2d/croot/numpy_and_numpy_base_1668593733683/work
+oauthlib==3.2.2
+opt-einsum==3.3.0
+oscrypto @ file:///tmp/build/80754af9/oscrypto_1633350059025/work
+outcome @ file:///home/conda/feedstock_root/build_artifacts/outcome_1655217710638/work
+packaging @ file:///tmp/build/80754af9/packaging_1637314298585/work
+pandas==1.4.4
+pathy==0.8.1
+Pillow==9.3.0
+pkgutil_resolve_name==1.3.10
+plotly==5.11.0
+preshed==3.0.8
+protobuf==3.19.6
+pyarrow==10.0.0
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pycryptodomex @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_50d8_fpm5j/croots/recipe/pycryptodomex_1661442978556/work
+pydantic==1.10.2
+pydeck==0.8.0
+Pygments==2.13.0
+PyJWT @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_eec47dd9-fcc8-4e06-bbca-6138d11dbbcch6zasfc4/croots/recipe/pyjwt_1657544589510/work
+pyLDAvis==3.3.1
+Pympler==1.0.1
+pyOpenSSL @ file:///opt/conda/conda-bld/pyopenssl_1643788558760/work
+pyparsing @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_3a17y2delq/croots/recipe/pyparsing_1661452538853/work
+pyrsistent==0.19.2
+PySocks @ file:///opt/concourse/worker/volumes/live/85a5b906-0e08-41d9-6f59-084cee4e9492/volume/pysocks_1594394636991/work
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytz @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_1caf090c-01b6-4973-adac-d2eb884a674e7zonb9eb/croots/recipe/pytz_1654762641285/work
+pytz-deprecation-shim==0.1.0.post0
+PyYAML==6.0
+regex==2022.10.31
+requests @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_516b78ce-034d-4395-b9b5-1d78c2847384qtnol99l/croots/recipe/requests_1657734628886/work
+requests-oauthlib==1.3.1
+rich==12.6.0
+rsa==4.9
+scikit-learn==1.1.3
+scipy==1.9.3
+seaborn==0.12.1
+selenium @ file:///home/conda/feedstock_root/build_artifacts/selenium_1667565026312/work/src/py
+semver==2.13.0
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+sklearn==0.0.post1
+smart-open==5.2.1
+smmap==5.0.0
+sniffio @ file:///home/conda/feedstock_root/build_artifacts/sniffio_1662051266223/work
+snowflake-connector-python @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_1dhbqgsi4o/croots/recipe/snowflake-connector-python_1662316545616/work
+snowflake-snowpark-python @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_84mp07fwrb/croot/snowflake-snowpark-python_1667400723472/work
+sortedcontainers @ file:///home/conda/feedstock_root/build_artifacts/sortedcontainers_1621217038088/work
+soupsieve==2.3.2.post1
+spacy==3.4.3
+spacy-legacy==3.0.10
+spacy-loggers==1.0.3
+srsly==2.4.5
+streamlit==1.14.1
+tenacity==8.1.0
+tensorboard==2.11.0
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.1
+tensorflow==2.11.0
+tensorflow-estimator==2.11.0
+tensorflow-io-gcs-filesystem==0.28.0
+termcolor==2.1.1
+textblob==0.17.1
+thinc==8.1.5
+threadpoolctl==3.1.0
+tokenizers==0.13.2
+toml==0.10.2
+toolz==0.12.0
+tornado==6.2
+tqdm==4.64.1
+transformers==4.24.0
+trio @ file:///Users/runner/miniforge3/conda-bld/trio_1666780286869/work
+trio-websocket @ file:///home/conda/feedstock_root/build_artifacts/trio-websocket_1641849081899/work/dist
+typer==0.7.0
+typing_extensions==4.4.0
+tzdata==2022.6
+tzlocal==4.2
+urllib3 @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_7f7kb5tudl/croot/urllib3_1666298941688/work
+vaderSentiment==3.3.2
+validators==0.20.0
+wasabi==0.10.1
+Werkzeug==2.2.2
+wordcloud==1.8.2.2
+wrapt==1.14.1
+wsproto @ file:///home/conda/feedstock_root/build_artifacts/wsproto_1661356345548/work
+zipp==3.10.0
